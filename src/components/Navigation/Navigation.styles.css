@@ -1,0 +1,13 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    background-color: darkblue;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.nav-container a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
